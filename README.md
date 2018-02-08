@@ -9,7 +9,7 @@ Assessment Administration.
 
 ## About
 
-This is my biggest application todate. My roles included. 
+This is my biggest application to date. My roles included. 
 
 * Project Manager
 * Researcher
@@ -17,9 +17,11 @@ This is my biggest application todate. My roles included.
 * System designer 
 * Coding frontend UI examples
 * Coding client to Gsuite intergration
+* Presenting and comunicating progress to board of directors
 * Testing and mainatinance
 * Optimization strategies before and after New Relic 
 * Creating training documentation
+* Leasing between internal customers and developement team
 * Delivering training
 * Countrywide launch
 
