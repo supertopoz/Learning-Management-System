@@ -10,9 +10,9 @@ Assessment Administration.
 
 ## Project
 
-Version 1 launched in 9 months. 
-Version 2 launched in 18 months.
-Improvements on going
+* Version 1 launched in 9 months. 
+* Version 2 launched in 18 months.
+* Improvements on going
 
 ### Key Features
 
