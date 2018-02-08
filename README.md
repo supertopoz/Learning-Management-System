@@ -7,6 +7,21 @@ Enterprize grade application for supporting ILA Vietnam. System processes:
 Course administration. 
 Assessment Administration. 
 
+## About
+
+This is my biggest application todate. My roles included. 
+
+* Project Manager
+* Researcher
+* UI designer
+* System designer 
+* Coding frontend UI examples
+* Coding client to Gsuite intergration
+* Testing and mainatinance
+* Optimization strategies before and after New Relic 
+* Creating training documentation
+* Delivering training
+* Countrywide launch
 
 ## Project
 
@@ -32,6 +47,6 @@ Moodle runs on PHP and can be found [here.](https://moodle.org/)
 
 ### Basic system design 
 
-This system has been running since early 2015 - with UI improvements and upgrades on going.
+This system has been running since early 2015 - with UI improvements and upgrades ongoing.
 
 ![ila connect](https://user-images.githubusercontent.com/13721960/35951622-86999f3a-0cbf-11e8-953d-72c4d0f3cfde.png)
